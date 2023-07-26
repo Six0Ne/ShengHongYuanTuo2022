@@ -5,4 +5,8 @@
 
 
 creating a new branch is quick.
+<<<<<<< HEAD
 master changes
+=======
+featurel changes
+>>>>>>> featurel
