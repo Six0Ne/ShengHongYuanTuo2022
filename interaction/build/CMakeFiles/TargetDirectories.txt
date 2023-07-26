@@ -1,0 +1,14 @@
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/edit_cache.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/rs485_send.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/usb_uart_recv.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/usb_uart_send.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/camera_display.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/camera2video.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/uart_send.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/rebuild_cache.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/usb_device_test.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/gpioDemo.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/rs485_recv.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/uart_recv.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/predict.dir
+/root/workspace/smart_car_2022/interaction/build/CMakeFiles/rgb_mat2gray_array.dir

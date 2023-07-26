@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/workspace/smart_car_2022/interaction/demo/gpioDemo.cpp
+memory
+-
+iostream
+-
+unistd.h
+-
+gpiod.h
+-
+
